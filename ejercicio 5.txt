@@ -1,0 +1,32 @@
+realizar un programa que permita controlar el cobro de un estacionamiento.
+
+el bolegto que se le entrega al cliente , contiene lo siguiente.
+
+a) nombre del propietario 
+
+b) marca del vehiculo 
+
+c) modelo
+
+d) color
+
+e) placas
+
+f) tiempo
+
+g) costo
+
+
+use la siguiente tabla 
+
+- media hora 40
+
+- 1 hora -- $90
+
+- 2 horas -- $170
+
+-mas de 2 horas --$250
+
+
+Muestre al final una estadistica por cada opcion tanto en cantidad como en dinero.
+
